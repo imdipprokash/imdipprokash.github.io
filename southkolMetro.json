@@ -1,0 +1,1380 @@
+[
+  toSealdah:[{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84b4"
+  },
+  "SALT LAKESECTOR V( SVSA )": "7:00",
+  "KARUNAMOYEE( KESA )": "7:03",
+  "CENTRALPARK( CPSA )": "7:05",
+  "CITYCENTER( CCSC )": "7:07",
+  "BENGALCHEMICAL( BCSD )": "7:10",
+  "SALT LAKESTADIUM( SSSA )": "7:12",
+  "PHOOLBAGAN( PBGB )": "7:16",
+  "SEALDAH( SDHM )": "7:20"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84b5"
+  },
+  "SALT LAKESECTOR V( SVSA )": "7:20",
+  "KARUNAMOYEE( KESA )": "7:23",
+  "CENTRALPARK( CPSA )": "7:25",
+  "CITYCENTER( CCSC )": "7:27",
+  "BENGALCHEMICAL( BCSD )": "7:30",
+  "SALT LAKESTADIUM( SSSA )": "7:32",
+  "PHOOLBAGAN( PBGB )": "7:36",
+  "SEALDAH( SDHM )": "7:40"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84b6"
+  },
+  "SALT LAKESECTOR V( SVSA )": "7:40",
+  "KARUNAMOYEE( KESA )": "7:43",
+  "CENTRALPARK( CPSA )": "7:45",
+  "CITYCENTER( CCSC )": "7:47",
+  "BENGALCHEMICAL( BCSD )": "7:50",
+  "SALT LAKESTADIUM( SSSA )": "7:52",
+  "PHOOLBAGAN( PBGB )": "7:56",
+  "SEALDAH( SDHM )": "8:00"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84b7"
+  },
+  "SALT LAKESECTOR V( SVSA )": "8:00",
+  "KARUNAMOYEE( KESA )": "8:03",
+  "CENTRALPARK( CPSA )": "8:05",
+  "CITYCENTER( CCSC )": "8:07",
+  "BENGALCHEMICAL( BCSD )": "8:10",
+  "SALT LAKESTADIUM( SSSA )": "8:12",
+  "PHOOLBAGAN( PBGB )": "8:16",
+  "SEALDAH( SDHM )": "8:20"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84b8"
+  },
+  "SALT LAKESECTOR V( SVSA )": "8:20",
+  "KARUNAMOYEE( KESA )": "8:23",
+  "CENTRALPARK( CPSA )": "8:25",
+  "CITYCENTER( CCSC )": "8:27",
+  "BENGALCHEMICAL( BCSD )": "8:30",
+  "SALT LAKESTADIUM( SSSA )": "8:32",
+  "PHOOLBAGAN( PBGB )": "8:36",
+  "SEALDAH( SDHM )": "8:40"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84b9"
+  },
+  "SALT LAKESECTOR V( SVSA )": "8:40",
+  "KARUNAMOYEE( KESA )": "8:43",
+  "CENTRALPARK( CPSA )": "8:45",
+  "CITYCENTER( CCSC )": "8:47",
+  "BENGALCHEMICAL( BCSD )": "8:50",
+  "SALT LAKESTADIUM( SSSA )": "8:52",
+  "PHOOLBAGAN( PBGB )": "8:56",
+  "SEALDAH( SDHM )": "9:00"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84ba"
+  },
+  "SALT LAKESECTOR V( SVSA )": "9:00",
+  "KARUNAMOYEE( KESA )": "9:03",
+  "CENTRALPARK( CPSA )": "9:05",
+  "CITYCENTER( CCSC )": "9:07",
+  "BENGALCHEMICAL( BCSD )": "9:10",
+  "SALT LAKESTADIUM( SSSA )": "9:12",
+  "PHOOLBAGAN( PBGB )": "9:16",
+  "SEALDAH( SDHM )": "9:20"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84bb"
+  },
+  "SALT LAKESECTOR V( SVSA )": "9:15",
+  "KARUNAMOYEE( KESA )": "9:18",
+  "CENTRALPARK( CPSA )": "9:20",
+  "CITYCENTER( CCSC )": "9:22",
+  "BENGALCHEMICAL( BCSD )": "9:25",
+  "SALT LAKESTADIUM( SSSA )": "9:27",
+  "PHOOLBAGAN( PBGB )": "9:31",
+  "SEALDAH( SDHM )": "9:35"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84bc"
+  },
+  "SALT LAKESECTOR V( SVSA )": "9:30",
+  "KARUNAMOYEE( KESA )": "9:33",
+  "CENTRALPARK( CPSA )": "9:35",
+  "CITYCENTER( CCSC )": "9:37",
+  "BENGALCHEMICAL( BCSD )": "9:40",
+  "SALT LAKESTADIUM( SSSA )": "9:42",
+  "PHOOLBAGAN( PBGB )": "9:46",
+  "SEALDAH( SDHM )": "9:50"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84bd"
+  },
+  "SALT LAKESECTOR V( SVSA )": "9:45",
+  "KARUNAMOYEE( KESA )": "9:48",
+  "CENTRALPARK( CPSA )": "9:50",
+  "CITYCENTER( CCSC )": "9:52",
+  "BENGALCHEMICAL( BCSD )": "9:55",
+  "SALT LAKESTADIUM( SSSA )": "9:57",
+  "PHOOLBAGAN( PBGB )": "10:01",
+  "SEALDAH( SDHM )": "10:05"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84be"
+  },
+  "SALT LAKESECTOR V( SVSA )": "10:00",
+  "KARUNAMOYEE( KESA )": "10:03",
+  "CENTRALPARK( CPSA )": "10:05",
+  "CITYCENTER( CCSC )": "10:07",
+  "BENGALCHEMICAL( BCSD )": "10:10",
+  "SALT LAKESTADIUM( SSSA )": "10:12",
+  "PHOOLBAGAN( PBGB )": "10:16",
+  "SEALDAH( SDHM )": "10:20"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84bf"
+  },
+  "SALT LAKESECTOR V( SVSA )": "10:15",
+  "KARUNAMOYEE( KESA )": "10:18",
+  "CENTRALPARK( CPSA )": "10:20",
+  "CITYCENTER( CCSC )": "10:22",
+  "BENGALCHEMICAL( BCSD )": "10:25",
+  "SALT LAKESTADIUM( SSSA )": "10:27",
+  "PHOOLBAGAN( PBGB )": "10:31",
+  "SEALDAH( SDHM )": "10:35"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84c0"
+  },
+  "SALT LAKESECTOR V( SVSA )": "10:30",
+  "KARUNAMOYEE( KESA )": "10:33",
+  "CENTRALPARK( CPSA )": "10:35",
+  "CITYCENTER( CCSC )": "10:37",
+  "BENGALCHEMICAL( BCSD )": "10:40",
+  "SALT LAKESTADIUM( SSSA )": "10:42",
+  "PHOOLBAGAN( PBGB )": "10:46",
+  "SEALDAH( SDHM )": "10:50"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84c1"
+  },
+  "SALT LAKESECTOR V( SVSA )": "10:45",
+  "KARUNAMOYEE( KESA )": "10:48",
+  "CENTRALPARK( CPSA )": "10:50",
+  "CITYCENTER( CCSC )": "10:52",
+  "BENGALCHEMICAL( BCSD )": "10:55",
+  "SALT LAKESTADIUM( SSSA )": "10:57",
+  "PHOOLBAGAN( PBGB )": "11:01",
+  "SEALDAH( SDHM )": "11:05"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84c2"
+  },
+  "SALT LAKESECTOR V( SVSA )": "11:00",
+  "KARUNAMOYEE( KESA )": "11:03",
+  "CENTRALPARK( CPSA )": "11:05",
+  "CITYCENTER( CCSC )": "11:07",
+  "BENGALCHEMICAL( BCSD )": "11:10",
+  "SALT LAKESTADIUM( SSSA )": "11:12",
+  "PHOOLBAGAN( PBGB )": "11:16",
+  "SEALDAH( SDHM )": "11:20"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84c3"
+  },
+  "SALT LAKESECTOR V( SVSA )": "11:20",
+  "KARUNAMOYEE( KESA )": "11:23",
+  "CENTRALPARK( CPSA )": "11:25",
+  "CITYCENTER( CCSC )": "11:27",
+  "BENGALCHEMICAL( BCSD )": "11:30",
+  "SALT LAKESTADIUM( SSSA )": "11:32",
+  "PHOOLBAGAN( PBGB )": "11:36",
+  "SEALDAH( SDHM )": "11:40"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84c4"
+  },
+  "SALT LAKESECTOR V( SVSA )": "11:40",
+  "KARUNAMOYEE( KESA )": "11:43",
+  "CENTRALPARK( CPSA )": "11:45",
+  "CITYCENTER( CCSC )": "11:47",
+  "BENGALCHEMICAL( BCSD )": "11:50",
+  "SALT LAKESTADIUM( SSSA )": "11:52",
+  "PHOOLBAGAN( PBGB )": "11:56",
+  "SEALDAH( SDHM )": "12:00"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84c5"
+  },
+  "SALT LAKESECTOR V( SVSA )": "12:00",
+  "KARUNAMOYEE( KESA )": "12:03",
+  "CENTRALPARK( CPSA )": "12:05",
+  "CITYCENTER( CCSC )": "12:07",
+  "BENGALCHEMICAL( BCSD )": "12:10",
+  "SALT LAKESTADIUM( SSSA )": "12:12",
+  "PHOOLBAGAN( PBGB )": "12:16",
+  "SEALDAH( SDHM )": "12:20"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84c6"
+  },
+  "SALT LAKESECTOR V( SVSA )": "12:20",
+  "KARUNAMOYEE( KESA )": "12:23",
+  "CENTRALPARK( CPSA )": "12:25",
+  "CITYCENTER( CCSC )": "12:27",
+  "BENGALCHEMICAL( BCSD )": "12:30",
+  "SALT LAKESTADIUM( SSSA )": "12:32",
+  "PHOOLBAGAN( PBGB )": "12:36",
+  "SEALDAH( SDHM )": "12:40"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84c7"
+  },
+  "SALT LAKESECTOR V( SVSA )": "12:40",
+  "KARUNAMOYEE( KESA )": "12:43",
+  "CENTRALPARK( CPSA )": "12:45",
+  "CITYCENTER( CCSC )": "12:47",
+  "BENGALCHEMICAL( BCSD )": "12:50",
+  "SALT LAKESTADIUM( SSSA )": "12:52",
+  "PHOOLBAGAN( PBGB )": "12:56",
+  "SEALDAH( SDHM )": "13:00"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84c8"
+  },
+  "SALT LAKESECTOR V( SVSA )": "13:00",
+  "KARUNAMOYEE( KESA )": "13:03",
+  "CENTRALPARK( CPSA )": "13:05",
+  "CITYCENTER( CCSC )": "13:07",
+  "BENGALCHEMICAL( BCSD )": "13:10",
+  "SALT LAKESTADIUM( SSSA )": "13:12",
+  "PHOOLBAGAN( PBGB )": "13:16",
+  "SEALDAH( SDHM )": "13:20"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84c9"
+  },
+  "SALT LAKESECTOR V( SVSA )": "13:20",
+  "KARUNAMOYEE( KESA )": "13:23",
+  "CENTRALPARK( CPSA )": "13:25",
+  "CITYCENTER( CCSC )": "13:27",
+  "BENGALCHEMICAL( BCSD )": "13:30",
+  "SALT LAKESTADIUM( SSSA )": "13:32",
+  "PHOOLBAGAN( PBGB )": "13:36",
+  "SEALDAH( SDHM )": "13:40"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84ca"
+  },
+  "SALT LAKESECTOR V( SVSA )": "13:40",
+  "KARUNAMOYEE( KESA )": "13:43",
+  "CENTRALPARK( CPSA )": "13:45",
+  "CITYCENTER( CCSC )": "13:47",
+  "BENGALCHEMICAL( BCSD )": "13:50",
+  "SALT LAKESTADIUM( SSSA )": "13:52",
+  "PHOOLBAGAN( PBGB )": "13:56",
+  "SEALDAH( SDHM )": "14:00"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84cb"
+  },
+  "SALT LAKESECTOR V( SVSA )": "14:00",
+  "KARUNAMOYEE( KESA )": "14:03",
+  "CENTRALPARK( CPSA )": "14:05",
+  "CITYCENTER( CCSC )": "14:07",
+  "BENGALCHEMICAL( BCSD )": "14:10",
+  "SALT LAKESTADIUM( SSSA )": "14:12",
+  "PHOOLBAGAN( PBGB )": "14:16",
+  "SEALDAH( SDHM )": "14:20"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84cc"
+  },
+  "SALT LAKESECTOR V( SVSA )": "14:20",
+  "KARUNAMOYEE( KESA )": "14:23",
+  "CENTRALPARK( CPSA )": "14:25",
+  "CITYCENTER( CCSC )": "14:27",
+  "BENGALCHEMICAL( BCSD )": "14:30",
+  "SALT LAKESTADIUM( SSSA )": "14:32",
+  "PHOOLBAGAN( PBGB )": "14:36",
+  "SEALDAH( SDHM )": "14:40"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84cd"
+  },
+  "SALT LAKESECTOR V( SVSA )": "14:40",
+  "KARUNAMOYEE( KESA )": "14:43",
+  "CENTRALPARK( CPSA )": "14:45",
+  "CITYCENTER( CCSC )": "14:47",
+  "BENGALCHEMICAL( BCSD )": "14:50",
+  "SALT LAKESTADIUM( SSSA )": "14:52",
+  "PHOOLBAGAN( PBGB )": "14:56",
+  "SEALDAH( SDHM )": "15:00"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84ce"
+  },
+  "SALT LAKESECTOR V( SVSA )": "15:00",
+  "KARUNAMOYEE( KESA )": "15:03",
+  "CENTRALPARK( CPSA )": "15:05",
+  "CITYCENTER( CCSC )": "15:07",
+  "BENGALCHEMICAL( BCSD )": "15:10",
+  "SALT LAKESTADIUM( SSSA )": "15:12",
+  "PHOOLBAGAN( PBGB )": "15:16",
+  "SEALDAH( SDHM )": "15:20"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84cf"
+  },
+  "SALT LAKESECTOR V( SVSA )": "15:20",
+  "KARUNAMOYEE( KESA )": "15:23",
+  "CENTRALPARK( CPSA )": "15:25",
+  "CITYCENTER( CCSC )": "15:27",
+  "BENGALCHEMICAL( BCSD )": "15:30",
+  "SALT LAKESTADIUM( SSSA )": "15:32",
+  "PHOOLBAGAN( PBGB )": "15:36",
+  "SEALDAH( SDHM )": "15:40"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84d0"
+  },
+  "SALT LAKESECTOR V( SVSA )": "15:40",
+  "KARUNAMOYEE( KESA )": "15:43",
+  "CENTRALPARK( CPSA )": "15:45",
+  "CITYCENTER( CCSC )": "15:47",
+  "BENGALCHEMICAL( BCSD )": "15:50",
+  "SALT LAKESTADIUM( SSSA )": "15:52",
+  "PHOOLBAGAN( PBGB )": "15:56",
+  "SEALDAH( SDHM )": "16:00"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84d1"
+  },
+  "SALT LAKESECTOR V( SVSA )": "16:00",
+  "KARUNAMOYEE( KESA )": "16:03",
+  "CENTRALPARK( CPSA )": "16:05",
+  "CITYCENTER( CCSC )": "16:07",
+  "BENGALCHEMICAL( BCSD )": "16:10",
+  "SALT LAKESTADIUM( SSSA )": "16:12",
+  "PHOOLBAGAN( PBGB )": "16:16",
+  "SEALDAH( SDHM )": "16:20"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84d2"
+  },
+  "SALT LAKESECTOR V( SVSA )": "16:20",
+  "KARUNAMOYEE( KESA )": "16:23",
+  "CENTRALPARK( CPSA )": "16:25",
+  "CITYCENTER( CCSC )": "16:27",
+  "BENGALCHEMICAL( BCSD )": "16:30",
+  "SALT LAKESTADIUM( SSSA )": "16:32",
+  "PHOOLBAGAN( PBGB )": "16:36",
+  "SEALDAH( SDHM )": "16:40"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84d3"
+  },
+  "SALT LAKESECTOR V( SVSA )": "16:40",
+  "KARUNAMOYEE( KESA )": "16:43",
+  "CENTRALPARK( CPSA )": "16:45",
+  "CITYCENTER( CCSC )": "16:47",
+  "BENGALCHEMICAL( BCSD )": "16:50",
+  "SALT LAKESTADIUM( SSSA )": "16:52",
+  "PHOOLBAGAN( PBGB )": "16:56",
+  "SEALDAH( SDHM )": "17:00"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84d4"
+  },
+  "SALT LAKESECTOR V( SVSA )": "16:52",
+  "KARUNAMOYEE( KESA )": "16:55",
+  "CENTRALPARK( CPSA )": "16:57",
+  "CITYCENTER( CCSC )": "16:59",
+  "BENGALCHEMICAL( BCSD )": "17:02",
+  "SALT LAKESTADIUM( SSSA )": "17:04",
+  "PHOOLBAGAN( PBGB )": "17:08",
+  "SEALDAH( SDHM )": "17:12"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84d5"
+  },
+  "SALT LAKESECTOR V( SVSA )": "17:04",
+  "KARUNAMOYEE( KESA )": "17:07",
+  "CENTRALPARK( CPSA )": "17:09",
+  "CITYCENTER( CCSC )": "17:11",
+  "BENGALCHEMICAL( BCSD )": "17:14",
+  "SALT LAKESTADIUM( SSSA )": "17:16",
+  "PHOOLBAGAN( PBGB )": "17:20",
+  "SEALDAH( SDHM )": "17:24"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84d6"
+  },
+  "SALT LAKESECTOR V( SVSA )": "17:16",
+  "KARUNAMOYEE( KESA )": "17:19",
+  "CENTRALPARK( CPSA )": "17:21",
+  "CITYCENTER( CCSC )": "17:23",
+  "BENGALCHEMICAL( BCSD )": "17:26",
+  "SALT LAKESTADIUM( SSSA )": "17:28",
+  "PHOOLBAGAN( PBGB )": "17:32",
+  "SEALDAH( SDHM )": "17:36"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84d7"
+  },
+  "SALT LAKESECTOR V( SVSA )": "17:28",
+  "KARUNAMOYEE( KESA )": "17:30",
+  "CENTRALPARK( CPSA )": "17:32",
+  "CITYCENTER( CCSC )": "17:34",
+  "BENGALCHEMICAL( BCSD )": "17:37",
+  "SALT LAKESTADIUM( SSSA )": "17:40",
+  "PHOOLBAGAN( PBGB )": "17:44",
+  "SEALDAH( SDHM )": "17:48"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84d8"
+  },
+  "SALT LAKESECTOR V( SVSA )": "17:40",
+  "KARUNAMOYEE( KESA )": "17:43",
+  "CENTRALPARK( CPSA )": "17:45",
+  "CITYCENTER( CCSC )": "17:47",
+  "BENGALCHEMICAL( BCSD )": "17:50",
+  "SALT LAKESTADIUM( SSSA )": "17:52",
+  "PHOOLBAGAN( PBGB )": "17:56",
+  "SEALDAH( SDHM )": "18:00"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84d9"
+  },
+  "SALT LAKESECTOR V( SVSA )": "17:52",
+  "KARUNAMOYEE( KESA )": "17:55",
+  "CENTRALPARK( CPSA )": "17:57",
+  "CITYCENTER( CCSC )": "17:59",
+  "BENGALCHEMICAL( BCSD )": "18:02",
+  "SALT LAKESTADIUM( SSSA )": "18:04",
+  "PHOOLBAGAN( PBGB )": "18:08",
+  "SEALDAH( SDHM )": "18:12"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84da"
+  },
+  "SALT LAKESECTOR V( SVSA )": "18:04",
+  "KARUNAMOYEE( KESA )": "18:07",
+  "CENTRALPARK( CPSA )": "18:09",
+  "CITYCENTER( CCSC )": "18:11",
+  "BENGALCHEMICAL( BCSD )": "18:14",
+  "SALT LAKESTADIUM( SSSA )": "18:16",
+  "PHOOLBAGAN( PBGB )": "18:20",
+  "SEALDAH( SDHM )": "18:24"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84db"
+  },
+  "SALT LAKESECTOR V( SVSA )": "18:16",
+  "KARUNAMOYEE( KESA )": "18:19",
+  "CENTRALPARK( CPSA )": "18:21",
+  "CITYCENTER( CCSC )": "18:23",
+  "BENGALCHEMICAL( BCSD )": "18:26",
+  "SALT LAKESTADIUM( SSSA )": "18:28",
+  "PHOOLBAGAN( PBGB )": "18:32",
+  "SEALDAH( SDHM )": "18:36"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84dc"
+  },
+  "SALT LAKESECTOR V( SVSA )": "18:28",
+  "KARUNAMOYEE( KESA )": "18:30",
+  "CENTRALPARK( CPSA )": "18:32",
+  "CITYCENTER( CCSC )": "18:34",
+  "BENGALCHEMICAL( BCSD )": "18:37",
+  "SALT LAKESTADIUM( SSSA )": "18:40",
+  "PHOOLBAGAN( PBGB )": "18:44",
+  "SEALDAH( SDHM )": "18:48"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84dd"
+  },
+  "SALT LAKESECTOR V( SVSA )": "18:40",
+  "KARUNAMOYEE( KESA )": "18:43",
+  "CENTRALPARK( CPSA )": "18:45",
+  "CITYCENTER( CCSC )": "18:47",
+  "BENGALCHEMICAL( BCSD )": "18:50",
+  "SALT LAKESTADIUM( SSSA )": "18:52",
+  "PHOOLBAGAN( PBGB )": "18:56",
+  "SEALDAH( SDHM )": "19:00"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84de"
+  },
+  "SALT LAKESECTOR V( SVSA )": "18:52",
+  "KARUNAMOYEE( KESA )": "18:55",
+  "CENTRALPARK( CPSA )": "18:57",
+  "CITYCENTER( CCSC )": "18:59",
+  "BENGALCHEMICAL( BCSD )": "19:02",
+  "SALT LAKESTADIUM( SSSA )": "19:04",
+  "PHOOLBAGAN( PBGB )": "19:08",
+  "SEALDAH( SDHM )": "19:12"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84df"
+  },
+  "SALT LAKESECTOR V( SVSA )": "19:04",
+  "KARUNAMOYEE( KESA )": "19:07",
+  "CENTRALPARK( CPSA )": "19:09",
+  "CITYCENTER( CCSC )": "19:11",
+  "BENGALCHEMICAL( BCSD )": "19:14",
+  "SALT LAKESTADIUM( SSSA )": "19:16",
+  "PHOOLBAGAN( PBGB )": "19:20",
+  "SEALDAH( SDHM )": "19:24"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84e0"
+  },
+  "SALT LAKESECTOR V( SVSA )": "19:16",
+  "KARUNAMOYEE( KESA )": "19:19",
+  "CENTRALPARK( CPSA )": "19:21",
+  "CITYCENTER( CCSC )": "19:23",
+  "BENGALCHEMICAL( BCSD )": "19:26",
+  "SALT LAKESTADIUM( SSSA )": "19:28",
+  "PHOOLBAGAN( PBGB )": "19:32",
+  "SEALDAH( SDHM )": "19:36"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84e1"
+  },
+  "SALT LAKESECTOR V( SVSA )": "19:28",
+  "KARUNAMOYEE( KESA )": "19:30",
+  "CENTRALPARK( CPSA )": "19:32",
+  "CITYCENTER( CCSC )": "19:34",
+  "BENGALCHEMICAL( BCSD )": "19:37",
+  "SALT LAKESTADIUM( SSSA )": "19:40",
+  "PHOOLBAGAN( PBGB )": "19:44",
+  "SEALDAH( SDHM )": "19:48"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84e2"
+  },
+  "SALT LAKESECTOR V( SVSA )": "19:40",
+  "KARUNAMOYEE( KESA )": "19:43",
+  "CENTRALPARK( CPSA )": "19:45",
+  "CITYCENTER( CCSC )": "19:47",
+  "BENGALCHEMICAL( BCSD )": "19:50",
+  "SALT LAKESTADIUM( SSSA )": "19:52",
+  "PHOOLBAGAN( PBGB )": "19:56",
+  "SEALDAH( SDHM )": "20:00"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84e3"
+  },
+  "SALT LAKESECTOR V( SVSA )": "20:00",
+  "KARUNAMOYEE( KESA )": "20:03",
+  "CENTRALPARK( CPSA )": "20:05",
+  "CITYCENTER( CCSC )": "20:07",
+  "BENGALCHEMICAL( BCSD )": "20:10",
+  "SALT LAKESTADIUM( SSSA )": "20:12",
+  "PHOOLBAGAN( PBGB )": "20:16",
+  "SEALDAH( SDHM )": "20:20"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84e4"
+  },
+  "SALT LAKESECTOR V( SVSA )": "20:20",
+  "KARUNAMOYEE( KESA )": "20:23",
+  "CENTRALPARK( CPSA )": "20:25",
+  "CITYCENTER( CCSC )": "20:27",
+  "BENGALCHEMICAL( BCSD )": "20:30",
+  "SALT LAKESTADIUM( SSSA )": "20:32",
+  "PHOOLBAGAN( PBGB )": "20:36",
+  "SEALDAH( SDHM )": "20:40"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84e5"
+  },
+  "SALT LAKESECTOR V( SVSA )": "20:40",
+  "KARUNAMOYEE( KESA )": "20:43",
+  "CENTRALPARK( CPSA )": "20:45",
+  "CITYCENTER( CCSC )": "20:47",
+  "BENGALCHEMICAL( BCSD )": "20:50",
+  "SALT LAKESTADIUM( SSSA )": "20:52",
+  "PHOOLBAGAN( PBGB )": "20:56",
+  "SEALDAH( SDHM )": "21:00"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84e6"
+  },
+  "SALT LAKESECTOR V( SVSA )": "21:00",
+  "KARUNAMOYEE( KESA )": "21:03",
+  "CENTRALPARK( CPSA )": "21:05",
+  "CITYCENTER( CCSC )": "21:07",
+  "BENGALCHEMICAL( BCSD )": "21:10",
+  "SALT LAKESTADIUM( SSSA )": "21:12",
+  "PHOOLBAGAN( PBGB )": "21:16",
+  "SEALDAH( SDHM )": "21:20"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84e7"
+  },
+  "SALT LAKESECTOR V( SVSA )": "21:20",
+  "KARUNAMOYEE( KESA )": "21:23",
+  "CENTRALPARK( CPSA )": "21:25",
+  "CITYCENTER( CCSC )": "21:27",
+  "BENGALCHEMICAL( BCSD )": "21:30",
+  "SALT LAKESTADIUM( SSSA )": "21:32",
+  "PHOOLBAGAN( PBGB )": "21:36",
+  "SEALDAH( SDHM )": "21:40"
+},
+{
+  "_id": {
+    "$oid": "656b2727354f58aa9c5a84e8"
+  },
+  "SALT LAKESECTOR V( SVSA )": "21:40",
+  "KARUNAMOYEE( KESA )": "21:43",
+  "CENTRALPARK( CPSA )": "21:45",
+  "CITYCENTER( CCSC )": "21:47",
+  "BENGALCHEMICAL( BCSD )": "21:50",
+  "SALT LAKESTADIUM( SSSA )": "21:52",
+  "PHOOLBAGAN( PBGB )": "21:56",
+  "SEALDAH( SDHM )": "22:00"
+}],
+  toSectoV:[{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a847e"
+  },
+  "SEALDAH( SDHM )": "6:55",
+  "PHOOLBAGAN( PBGB )": "6:58",
+  "SALT LAKESTADIUM( SSSA )": "7:02",
+  "BENGALCHEMICAL( BCSD )": "7:05",
+  "CITYCENTER( CCSC )": "7:08",
+  "CENTRALPARK( CPSA )": "7:10",
+  "KARUNAMOYEE( KESA )": "7:12",
+  "SALT LAKESECTOR V( SVSA )": "7:15"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a847f"
+  },
+  "SEALDAH( SDHM )": "7:15",
+  "PHOOLBAGAN( PBGB )": "7:18",
+  "SALT LAKESTADIUM( SSSA )": "7:22",
+  "BENGALCHEMICAL( BCSD )": "7:25",
+  "CITYCENTER( CCSC )": "7:28",
+  "CENTRALPARK( CPSA )": "7:30",
+  "KARUNAMOYEE( KESA )": "7:32",
+  "SALT LAKESECTOR V( SVSA )": "7:35"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8480"
+  },
+  "SEALDAH( SDHM )": "7:35",
+  "PHOOLBAGAN( PBGB )": "7:38",
+  "SALT LAKESTADIUM( SSSA )": "7:42",
+  "BENGALCHEMICAL( BCSD )": "7:45",
+  "CITYCENTER( CCSC )": "7:48",
+  "CENTRALPARK( CPSA )": "7:50",
+  "KARUNAMOYEE( KESA )": "7:52",
+  "SALT LAKESECTOR V( SVSA )": "7:55"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8481"
+  },
+  "SEALDAH( SDHM )": "7:55",
+  "PHOOLBAGAN( PBGB )": "7:58",
+  "SALT LAKESTADIUM( SSSA )": "8:02",
+  "BENGALCHEMICAL( BCSD )": "8:05",
+  "CITYCENTER( CCSC )": "8:08",
+  "CENTRALPARK( CPSA )": "8:10",
+  "KARUNAMOYEE( KESA )": "8:12",
+  "SALT LAKESECTOR V( SVSA )": "8:15"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8482"
+  },
+  "SEALDAH( SDHM )": "8:15",
+  "PHOOLBAGAN( PBGB )": "8:18",
+  "SALT LAKESTADIUM( SSSA )": "8:22",
+  "BENGALCHEMICAL( BCSD )": "8:25",
+  "CITYCENTER( CCSC )": "8:28",
+  "CENTRALPARK( CPSA )": "8:30",
+  "KARUNAMOYEE( KESA )": "8:32",
+  "SALT LAKESECTOR V( SVSA )": "8:35"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8483"
+  },
+  "SEALDAH( SDHM )": "8:35",
+  "PHOOLBAGAN( PBGB )": "8:38",
+  "SALT LAKESTADIUM( SSSA )": "8:42",
+  "BENGALCHEMICAL( BCSD )": "8:45",
+  "CITYCENTER( CCSC )": "8:48",
+  "CENTRALPARK( CPSA )": "8:50",
+  "KARUNAMOYEE( KESA )": "8:52",
+  "SALT LAKESECTOR V( SVSA )": "8:55"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8484"
+  },
+  "SEALDAH( SDHM )": "8:55",
+  "PHOOLBAGAN( PBGB )": "8:58",
+  "SALT LAKESTADIUM( SSSA )": "9:02",
+  "BENGALCHEMICAL( BCSD )": "9:05",
+  "CITYCENTER( CCSC )": "9:08",
+  "CENTRALPARK( CPSA )": "9:10",
+  "KARUNAMOYEE( KESA )": "9:12",
+  "SALT LAKESECTOR V( SVSA )": "9:15"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8485"
+  },
+  "SEALDAH( SDHM )": "9:10",
+  "PHOOLBAGAN( PBGB )": "9:13",
+  "SALT LAKESTADIUM( SSSA )": "9:17",
+  "BENGALCHEMICAL( BCSD )": "9:20",
+  "CITYCENTER( CCSC )": "9:23",
+  "CENTRALPARK( CPSA )": "9:25",
+  "KARUNAMOYEE( KESA )": "9:27",
+  "SALT LAKESECTOR V( SVSA )": "9:30"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8486"
+  },
+  "SEALDAH( SDHM )": "9:25",
+  "PHOOLBAGAN( PBGB )": "9:28",
+  "SALT LAKESTADIUM( SSSA )": "9:32",
+  "BENGALCHEMICAL( BCSD )": "9:35",
+  "CITYCENTER( CCSC )": "9:38",
+  "CENTRALPARK( CPSA )": "9:40",
+  "KARUNAMOYEE( KESA )": "9:42",
+  "SALT LAKESECTOR V( SVSA )": "9:45"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8487"
+  },
+  "SEALDAH( SDHM )": "9:40",
+  "PHOOLBAGAN( PBGB )": "9:43",
+  "SALT LAKESTADIUM( SSSA )": "9:47",
+  "BENGALCHEMICAL( BCSD )": "9:50",
+  "CITYCENTER( CCSC )": "9:53",
+  "CENTRALPARK( CPSA )": "9:55",
+  "KARUNAMOYEE( KESA )": "9:57",
+  "SALT LAKESECTOR V( SVSA )": "10:00"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8488"
+  },
+  "SEALDAH( SDHM )": "9:55",
+  "PHOOLBAGAN( PBGB )": "9:58",
+  "SALT LAKESTADIUM( SSSA )": "10:02",
+  "BENGALCHEMICAL( BCSD )": "10:05",
+  "CITYCENTER( CCSC )": "10:08",
+  "CENTRALPARK( CPSA )": "10:10",
+  "KARUNAMOYEE( KESA )": "10:12",
+  "SALT LAKESECTOR V( SVSA )": "10:15"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8489"
+  },
+  "SEALDAH( SDHM )": "10:10",
+  "PHOOLBAGAN( PBGB )": "10:13",
+  "SALT LAKESTADIUM( SSSA )": "10:17",
+  "BENGALCHEMICAL( BCSD )": "10:20",
+  "CITYCENTER( CCSC )": "10:23",
+  "CENTRALPARK( CPSA )": "10:25",
+  "KARUNAMOYEE( KESA )": "10:27",
+  "SALT LAKESECTOR V( SVSA )": "10:30"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a848a"
+  },
+  "SEALDAH( SDHM )": "10:25",
+  "PHOOLBAGAN( PBGB )": "10:28",
+  "SALT LAKESTADIUM( SSSA )": "10:32",
+  "BENGALCHEMICAL( BCSD )": "10:35",
+  "CITYCENTER( CCSC )": "10:38",
+  "CENTRALPARK( CPSA )": "10:40",
+  "KARUNAMOYEE( KESA )": "10:42",
+  "SALT LAKESECTOR V( SVSA )": "10:45"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a848b"
+  },
+  "SEALDAH( SDHM )": "10:40",
+  "PHOOLBAGAN( PBGB )": "10:43",
+  "SALT LAKESTADIUM( SSSA )": "10:47",
+  "BENGALCHEMICAL( BCSD )": "10:50",
+  "CITYCENTER( CCSC )": "10:53",
+  "CENTRALPARK( CPSA )": "10:55",
+  "KARUNAMOYEE( KESA )": "10:57",
+  "SALT LAKESECTOR V( SVSA )": "11:00"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a848c"
+  },
+  "SEALDAH( SDHM )": "10:55",
+  "PHOOLBAGAN( PBGB )": "10:58",
+  "SALT LAKESTADIUM( SSSA )": "11:02",
+  "BENGALCHEMICAL( BCSD )": "11:05",
+  "CITYCENTER( CCSC )": "11:08",
+  "CENTRALPARK( CPSA )": "11:10",
+  "KARUNAMOYEE( KESA )": "11:12",
+  "SALT LAKESECTOR V( SVSA )": "11:15"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a848d"
+  },
+  "SEALDAH( SDHM )": "11:15",
+  "PHOOLBAGAN( PBGB )": "11:18",
+  "SALT LAKESTADIUM( SSSA )": "11:22",
+  "BENGALCHEMICAL( BCSD )": "11:25",
+  "CITYCENTER( CCSC )": "11:28",
+  "CENTRALPARK( CPSA )": "11:30",
+  "KARUNAMOYEE( KESA )": "11:32",
+  "SALT LAKESECTOR V( SVSA )": "11:35"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a848e"
+  },
+  "SEALDAH( SDHM )": "11:35",
+  "PHOOLBAGAN( PBGB )": "11:38",
+  "SALT LAKESTADIUM( SSSA )": "11:42",
+  "BENGALCHEMICAL( BCSD )": "11:45",
+  "CITYCENTER( CCSC )": "11:48",
+  "CENTRALPARK( CPSA )": "11:50",
+  "KARUNAMOYEE( KESA )": "11:52",
+  "SALT LAKESECTOR V( SVSA )": "11:55"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a848f"
+  },
+  "SEALDAH( SDHM )": "11:55",
+  "PHOOLBAGAN( PBGB )": "11:58",
+  "SALT LAKESTADIUM( SSSA )": "12:02",
+  "BENGALCHEMICAL( BCSD )": "12:05",
+  "CITYCENTER( CCSC )": "12:08",
+  "CENTRALPARK( CPSA )": "12:10",
+  "KARUNAMOYEE( KESA )": "12:12",
+  "SALT LAKESECTOR V( SVSA )": "12:15"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8490"
+  },
+  "SEALDAH( SDHM )": "12:15",
+  "PHOOLBAGAN( PBGB )": "12:18",
+  "SALT LAKESTADIUM( SSSA )": "12:22",
+  "BENGALCHEMICAL( BCSD )": "12:25",
+  "CITYCENTER( CCSC )": "12:28",
+  "CENTRALPARK( CPSA )": "12:30",
+  "KARUNAMOYEE( KESA )": "12:32",
+  "SALT LAKESECTOR V( SVSA )": "12:35"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8491"
+  },
+  "SEALDAH( SDHM )": "12:35",
+  "PHOOLBAGAN( PBGB )": "12:38",
+  "SALT LAKESTADIUM( SSSA )": "12:42",
+  "BENGALCHEMICAL( BCSD )": "12:45",
+  "CITYCENTER( CCSC )": "12:48",
+  "CENTRALPARK( CPSA )": "12:50",
+  "KARUNAMOYEE( KESA )": "12:52",
+  "SALT LAKESECTOR V( SVSA )": "12:55"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8492"
+  },
+  "SEALDAH( SDHM )": "12:55",
+  "PHOOLBAGAN( PBGB )": "12:58",
+  "SALT LAKESTADIUM( SSSA )": "13:02",
+  "BENGALCHEMICAL( BCSD )": "13:05",
+  "CITYCENTER( CCSC )": "13:08",
+  "CENTRALPARK( CPSA )": "13:10",
+  "KARUNAMOYEE( KESA )": "13:12",
+  "SALT LAKESECTOR V( SVSA )": "13:15"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8493"
+  },
+  "SEALDAH( SDHM )": "13:15",
+  "PHOOLBAGAN( PBGB )": "13:18",
+  "SALT LAKESTADIUM( SSSA )": "13:22",
+  "BENGALCHEMICAL( BCSD )": "13:25",
+  "CITYCENTER( CCSC )": "13:28",
+  "CENTRALPARK( CPSA )": "13:30",
+  "KARUNAMOYEE( KESA )": "13:32",
+  "SALT LAKESECTOR V( SVSA )": "13:35"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8494"
+  },
+  "SEALDAH( SDHM )": "13:35",
+  "PHOOLBAGAN( PBGB )": "13:38",
+  "SALT LAKESTADIUM( SSSA )": "13:42",
+  "BENGALCHEMICAL( BCSD )": "13:45",
+  "CITYCENTER( CCSC )": "13:48",
+  "CENTRALPARK( CPSA )": "13:50",
+  "KARUNAMOYEE( KESA )": "13:52",
+  "SALT LAKESECTOR V( SVSA )": "13:55"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8495"
+  },
+  "SEALDAH( SDHM )": "13:55",
+  "PHOOLBAGAN( PBGB )": "13:58",
+  "SALT LAKESTADIUM( SSSA )": "14:02",
+  "BENGALCHEMICAL( BCSD )": "14:05",
+  "CITYCENTER( CCSC )": "14:08",
+  "CENTRALPARK( CPSA )": "14:10",
+  "KARUNAMOYEE( KESA )": "14:12",
+  "SALT LAKESECTOR V( SVSA )": "14:15"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8496"
+  },
+  "SEALDAH( SDHM )": "14:15",
+  "PHOOLBAGAN( PBGB )": "14:18",
+  "SALT LAKESTADIUM( SSSA )": "14:22",
+  "BENGALCHEMICAL( BCSD )": "14:25",
+  "CITYCENTER( CCSC )": "14:28",
+  "CENTRALPARK( CPSA )": "14:30",
+  "KARUNAMOYEE( KESA )": "14:32",
+  "SALT LAKESECTOR V( SVSA )": "14:35"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8497"
+  },
+  "SEALDAH( SDHM )": "14:35",
+  "PHOOLBAGAN( PBGB )": "14:38",
+  "SALT LAKESTADIUM( SSSA )": "14:42",
+  "BENGALCHEMICAL( BCSD )": "14:45",
+  "CITYCENTER( CCSC )": "14:48",
+  "CENTRALPARK( CPSA )": "14:50",
+  "KARUNAMOYEE( KESA )": "14:52",
+  "SALT LAKESECTOR V( SVSA )": "14:55"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8498"
+  },
+  "SEALDAH( SDHM )": "14:55",
+  "PHOOLBAGAN( PBGB )": "14:58",
+  "SALT LAKESTADIUM( SSSA )": "15:02",
+  "BENGALCHEMICAL( BCSD )": "15:05",
+  "CITYCENTER( CCSC )": "15:08",
+  "CENTRALPARK( CPSA )": "15:10",
+  "KARUNAMOYEE( KESA )": "15:12",
+  "SALT LAKESECTOR V( SVSA )": "15:15"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a8499"
+  },
+  "SEALDAH( SDHM )": "15:15",
+  "PHOOLBAGAN( PBGB )": "15:18",
+  "SALT LAKESTADIUM( SSSA )": "15:22",
+  "BENGALCHEMICAL( BCSD )": "15:25",
+  "CITYCENTER( CCSC )": "15:28",
+  "CENTRALPARK( CPSA )": "15:30",
+  "KARUNAMOYEE( KESA )": "15:32",
+  "SALT LAKESECTOR V( SVSA )": "15:35"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a849a"
+  },
+  "SEALDAH( SDHM )": "15:35",
+  "PHOOLBAGAN( PBGB )": "15:38",
+  "SALT LAKESTADIUM( SSSA )": "15:42",
+  "BENGALCHEMICAL( BCSD )": "15:45",
+  "CITYCENTER( CCSC )": "15:48",
+  "CENTRALPARK( CPSA )": "15:50",
+  "KARUNAMOYEE( KESA )": "15:52",
+  "SALT LAKESECTOR V( SVSA )": "15:55"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a849b"
+  },
+  "SEALDAH( SDHM )": "15:55",
+  "PHOOLBAGAN( PBGB )": "15:58",
+  "SALT LAKESTADIUM( SSSA )": "16:02",
+  "BENGALCHEMICAL( BCSD )": "16:05",
+  "CITYCENTER( CCSC )": "16:08",
+  "CENTRALPARK( CPSA )": "16:10",
+  "KARUNAMOYEE( KESA )": "16:12",
+  "SALT LAKESECTOR V( SVSA )": "16:15"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a849c"
+  },
+  "SEALDAH( SDHM )": "16:15",
+  "PHOOLBAGAN( PBGB )": "16:18",
+  "SALT LAKESTADIUM( SSSA )": "16:22",
+  "BENGALCHEMICAL( BCSD )": "16:25",
+  "CITYCENTER( CCSC )": "16:28",
+  "CENTRALPARK( CPSA )": "16:30",
+  "KARUNAMOYEE( KESA )": "16:32",
+  "SALT LAKESECTOR V( SVSA )": "16:35"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a849d"
+  },
+  "SEALDAH( SDHM )": "16:35",
+  "PHOOLBAGAN( PBGB )": "16:38",
+  "SALT LAKESTADIUM( SSSA )": "16:42",
+  "BENGALCHEMICAL( BCSD )": "16:45",
+  "CITYCENTER( CCSC )": "16:48",
+  "CENTRALPARK( CPSA )": "16:50",
+  "KARUNAMOYEE( KESA )": "16:52",
+  "SALT LAKESECTOR V( SVSA )": "16:55"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a849e"
+  },
+  "SEALDAH( SDHM )": "16:55",
+  "PHOOLBAGAN( PBGB )": "16:58",
+  "SALT LAKESTADIUM( SSSA )": "17:02",
+  "BENGALCHEMICAL( BCSD )": "17:05",
+  "CITYCENTER( CCSC )": "17:08",
+  "CENTRALPARK( CPSA )": "17:10",
+  "KARUNAMOYEE( KESA )": "17:12",
+  "SALT LAKESECTOR V( SVSA )": "17:15"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a849f"
+  },
+  "SEALDAH( SDHM )": "17:07",
+  "PHOOLBAGAN( PBGB )": "17:10",
+  "SALT LAKESTADIUM( SSSA )": "17:14",
+  "BENGALCHEMICAL( BCSD )": "17:17",
+  "CITYCENTER( CCSC )": "17:20",
+  "CENTRALPARK( CPSA )": "17:22",
+  "KARUNAMOYEE( KESA )": "17:24",
+  "SALT LAKESECTOR V( SVSA )": "17:27"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a84a0"
+  },
+  "SEALDAH( SDHM )": "17:19",
+  "PHOOLBAGAN( PBGB )": "17:22",
+  "SALT LAKESTADIUM( SSSA )": "17:26",
+  "BENGALCHEMICAL( BCSD )": "17:29",
+  "CITYCENTER( CCSC )": "17:32",
+  "CENTRALPARK( CPSA )": "17:34",
+  "KARUNAMOYEE( KESA )": "17:36",
+  "SALT LAKESECTOR V( SVSA )": "17:39"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a84a1"
+  },
+  "SEALDAH( SDHM )": "17:31",
+  "PHOOLBAGAN( PBGB )": "17:34",
+  "SALT LAKESTADIUM( SSSA )": "17:38",
+  "BENGALCHEMICAL( BCSD )": "17:41",
+  "CITYCENTER( CCSC )": "17:44",
+  "CENTRALPARK( CPSA )": "17:46",
+  "KARUNAMOYEE( KESA )": "17:48",
+  "SALT LAKESECTOR V( SVSA )": "17:51"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a84a2"
+  },
+  "SEALDAH( SDHM )": "17:43",
+  "PHOOLBAGAN( PBGB )": "17:46",
+  "SALT LAKESTADIUM( SSSA )": "17:50",
+  "BENGALCHEMICAL( BCSD )": "17:53",
+  "CITYCENTER( CCSC )": "17:56",
+  "CENTRALPARK( CPSA )": "17:58",
+  "KARUNAMOYEE( KESA )": "18:00",
+  "SALT LAKESECTOR V( SVSA )": "18:03"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a84a3"
+  },
+  "SEALDAH( SDHM )": "17:55",
+  "PHOOLBAGAN( PBGB )": "17:58",
+  "SALT LAKESTADIUM( SSSA )": "18:02",
+  "BENGALCHEMICAL( BCSD )": "18:05",
+  "CITYCENTER( CCSC )": "18:08",
+  "CENTRALPARK( CPSA )": "18:10",
+  "KARUNAMOYEE( KESA )": "18:12",
+  "SALT LAKESECTOR V( SVSA )": "18:15"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a84a4"
+  },
+  "SEALDAH( SDHM )": "18:07",
+  "PHOOLBAGAN( PBGB )": "18:10",
+  "SALT LAKESTADIUM( SSSA )": "18:14",
+  "BENGALCHEMICAL( BCSD )": "18:17",
+  "CITYCENTER( CCSC )": "18:20",
+  "CENTRALPARK( CPSA )": "18:22",
+  "KARUNAMOYEE( KESA )": "18:24",
+  "SALT LAKESECTOR V( SVSA )": "18:27"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a84a5"
+  },
+  "SEALDAH( SDHM )": "18:19",
+  "PHOOLBAGAN( PBGB )": "18:22",
+  "SALT LAKESTADIUM( SSSA )": "18:26",
+  "BENGALCHEMICAL( BCSD )": "18:29",
+  "CITYCENTER( CCSC )": "18:32",
+  "CENTRALPARK( CPSA )": "18:34",
+  "KARUNAMOYEE( KESA )": "18:36",
+  "SALT LAKESECTOR V( SVSA )": "18:39"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a84a6"
+  },
+  "SEALDAH( SDHM )": "18:31",
+  "PHOOLBAGAN( PBGB )": "18:34",
+  "SALT LAKESTADIUM( SSSA )": "18:38",
+  "BENGALCHEMICAL( BCSD )": "18:41",
+  "CITYCENTER( CCSC )": "18:44",
+  "CENTRALPARK( CPSA )": "18:46",
+  "KARUNAMOYEE( KESA )": "18:48",
+  "SALT LAKESECTOR V( SVSA )": "18:51"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a84a7"
+  },
+  "SEALDAH( SDHM )": "18:43",
+  "PHOOLBAGAN( PBGB )": "18:46",
+  "SALT LAKESTADIUM( SSSA )": "18:50",
+  "BENGALCHEMICAL( BCSD )": "18:53",
+  "CITYCENTER( CCSC )": "18:56",
+  "CENTRALPARK( CPSA )": "18:58",
+  "KARUNAMOYEE( KESA )": "19:00",
+  "SALT LAKESECTOR V( SVSA )": "19:03"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a84a8"
+  },
+  "SEALDAH( SDHM )": "18:55",
+  "PHOOLBAGAN( PBGB )": "18:58",
+  "SALT LAKESTADIUM( SSSA )": "19:02",
+  "BENGALCHEMICAL( BCSD )": "19:05",
+  "CITYCENTER( CCSC )": "19:08",
+  "CENTRALPARK( CPSA )": "19:10",
+  "KARUNAMOYEE( KESA )": "19:12",
+  "SALT LAKESECTOR V( SVSA )": "19:15"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a84a9"
+  },
+  "SEALDAH( SDHM )": "19:07",
+  "PHOOLBAGAN( PBGB )": "19:10",
+  "SALT LAKESTADIUM( SSSA )": "19:14",
+  "BENGALCHEMICAL( BCSD )": "19:17",
+  "CITYCENTER( CCSC )": "19:20",
+  "CENTRALPARK( CPSA )": "19:22",
+  "KARUNAMOYEE( KESA )": "19:24",
+  "SALT LAKESECTOR V( SVSA )": "19:27"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a84aa"
+  },
+  "SEALDAH( SDHM )": "19:19",
+  "PHOOLBAGAN( PBGB )": "19:22",
+  "SALT LAKESTADIUM( SSSA )": "19:26",
+  "BENGALCHEMICAL( BCSD )": "19:29",
+  "CITYCENTER( CCSC )": "19:32",
+  "CENTRALPARK( CPSA )": "19:34",
+  "KARUNAMOYEE( KESA )": "19:36",
+  "SALT LAKESECTOR V( SVSA )": "19:39"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a84ab"
+  },
+  "SEALDAH( SDHM )": "19:31",
+  "PHOOLBAGAN( PBGB )": "19:34",
+  "SALT LAKESTADIUM( SSSA )": "19:38",
+  "BENGALCHEMICAL( BCSD )": "19:41",
+  "CITYCENTER( CCSC )": "19:44",
+  "CENTRALPARK( CPSA )": "19:46",
+  "KARUNAMOYEE( KESA )": "19:48",
+  "SALT LAKESECTOR V( SVSA )": "19:51"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a84ac"
+  },
+  "SEALDAH( SDHM )": "19:43",
+  "PHOOLBAGAN( PBGB )": "19:46",
+  "SALT LAKESTADIUM( SSSA )": "19:50",
+  "BENGALCHEMICAL( BCSD )": "19:53",
+  "CITYCENTER( CCSC )": "19:56",
+  "CENTRALPARK( CPSA )": "19:58",
+  "KARUNAMOYEE( KESA )": "20:00",
+  "SALT LAKESECTOR V( SVSA )": "20:03"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a84ad"
+  },
+  "SEALDAH( SDHM )": "19:55",
+  "PHOOLBAGAN( PBGB )": "19:58",
+  "SALT LAKESTADIUM( SSSA )": "20:02",
+  "BENGALCHEMICAL( BCSD )": "20:05",
+  "CITYCENTER( CCSC )": "20:08",
+  "CENTRALPARK( CPSA )": "20:10",
+  "KARUNAMOYEE( KESA )": "20:12",
+  "SALT LAKESECTOR V( SVSA )": "20:15"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a84ae"
+  },
+  "SEALDAH( SDHM )": "20:15",
+  "PHOOLBAGAN( PBGB )": "20:18",
+  "SALT LAKESTADIUM( SSSA )": "20:22",
+  "BENGALCHEMICAL( BCSD )": "20:25",
+  "CITYCENTER( CCSC )": "20:28",
+  "CENTRALPARK( CPSA )": "20:30",
+  "KARUNAMOYEE( KESA )": "20:32",
+  "SALT LAKESECTOR V( SVSA )": "20:35"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a84af"
+  },
+  "SEALDAH( SDHM )": "20:35",
+  "PHOOLBAGAN( PBGB )": "20:38",
+  "SALT LAKESTADIUM( SSSA )": "20:42",
+  "BENGALCHEMICAL( BCSD )": "20:45",
+  "CITYCENTER( CCSC )": "20:48",
+  "CENTRALPARK( CPSA )": "20:50",
+  "KARUNAMOYEE( KESA )": "20:52",
+  "SALT LAKESECTOR V( SVSA )": "20:55"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a84b0"
+  },
+  "SEALDAH( SDHM )": "20:55",
+  "PHOOLBAGAN( PBGB )": "20:58",
+  "SALT LAKESTADIUM( SSSA )": "21:02",
+  "BENGALCHEMICAL( BCSD )": "21:05",
+  "CITYCENTER( CCSC )": "21:08",
+  "CENTRALPARK( CPSA )": "21:10",
+  "KARUNAMOYEE( KESA )": "21:12",
+  "SALT LAKESECTOR V( SVSA )": "21:15"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a84b1"
+  },
+  "SEALDAH( SDHM )": "21:15",
+  "PHOOLBAGAN( PBGB )": "21:18",
+  "SALT LAKESTADIUM( SSSA )": "21:22",
+  "BENGALCHEMICAL( BCSD )": "21:25",
+  "CITYCENTER( CCSC )": "21:28",
+  "CENTRALPARK( CPSA )": "21:30",
+  "KARUNAMOYEE( KESA )": "21:32",
+  "SALT LAKESECTOR V( SVSA )": "21:35"
+},
+{
+  "_id": {
+    "$oid": "656b2688354f58aa9c5a84b2"
+  },
+  "SEALDAH( SDHM )": "21:35",
+  "PHOOLBAGAN( PBGB )": "21:38",
+  "SALT LAKESTADIUM( SSSA )": "21:42",
+  "BENGALCHEMICAL( BCSD )": "21:45",
+  "CITYCENTER( CCSC )": "21:48",
+  "CENTRALPARK( CPSA )": "21:50",
+  "KARUNAMOYEE( KESA )": "21:52",
+  "SALT LAKESECTOR V( SVSA )": "21:55"
+}]
+]
